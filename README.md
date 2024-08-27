@@ -1,3 +1,5 @@
+This repository serves as a simple template for starting new Python projects. It includes a basic project structure with essential files and instructions to help you get started quickly.
+
 ## Getting Started
 
 Follow these steps to set up and start working on your new project:
@@ -10,12 +12,6 @@ To start a new project using this template, clone the repository to your local m
 git clone https://github.com/YourUsername/your-new-project.git
 cd your-new-project
 
-Certainly! Here's the entire content from the last response combined into a single plain text code snippet for your `README.md` file:
-
-```markdown
-# Simple Python Project Template
-
-This repository serves as a simple template for starting new Python projects. It includes a basic project structure with essential files and instructions to help you get started quickly.
 
 ## Project Structure
 
