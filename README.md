@@ -29,19 +29,6 @@ simple-python-project-template/
     └── main.py                # Main script file
 ```
 
-## Getting Started
-
-Follow these steps to set up and start working on your new project:
-
-### 1. Clone the Repository
-
-To start a new project using this template, clone the repository to your local machine:
-
-```bash
-git clone https://github.com/YourUsername/your-new-project.git
-cd your-new-project
-```
-
 ### 2. Set Up a Virtual Environment
 
 It's recommended to use a virtual environment to manage your project's dependencies:
