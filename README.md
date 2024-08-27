@@ -11,6 +11,7 @@ To start a new project using this template, clone the repository to your local m
 ```bash
 git clone https://github.com/YourUsername/your-new-project.git
 cd your-new-project
+```
 
 
 ## Project Structure
@@ -50,13 +51,6 @@ It's recommended to use a virtual environment to manage your project's dependenc
 ```bash
 python3 -m venv venv
 source venv/bin/activate
-```
-
-#### On Windows
-
-```bash
-python -m venv venv
-.\venv\Scripts\activate
 ```
 
 ### 3. Install Dependencies
